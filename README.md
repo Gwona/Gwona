@@ -80,7 +80,7 @@ I’m an aspiring AI & Cloud engineer with a background in Management Informatio
 ---
 
 📬 **How to reach me**
-- 📝 [블로그](https://bigpotworks.tistory.com/)
-- 💬 [링크드인](https://www.linkedin.com/in/gwona-ko-13120417a/)
+- 📝 [Blog](https://bigpotworks.tistory.com/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/gwona-ko-13120417a/)
 
 ---
