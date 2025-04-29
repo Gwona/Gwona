@@ -4,6 +4,7 @@
 **Gwona/Gwona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/Gwona?pet-id=1" width="1000" height="60">
 </a>
@@ -12,8 +13,6 @@
 
 🎯 **About Me**  
 I’m an aspiring AI & Cloud engineer with a background in Management Information Systems and real-world experience in business consulting, image-based job data extraction, and generative AI services. I enjoy turning complex problems into user-centered solutions using Python, Azure, and LLMs.
-
-> “Making tech more human, and humans more capable.”
 
 ---
 
@@ -77,7 +76,7 @@ I’m an aspiring AI & Cloud engineer with a background in Management Informatio
 ---
 
 📬 **How to reach me**
-- 📝 Portfolio / Blog: https://bigpotworks.tistory.com/
+- 📝 Blog: https://bigpotworks.tistory.com/
 - 💬 LinkedIn: https://www.linkedin.com/in/gwona-ko-13120417a/ 
 
 ---
