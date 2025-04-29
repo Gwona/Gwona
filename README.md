@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Gwona" height="150"/>
+    <img src="https://render.gitanimals.org/farms/Gwona?view=true" height="150"/>
   </a>
   <a href="https://solved.ac/shb04110">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shb04110" height="150"/>
