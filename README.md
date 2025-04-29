@@ -4,10 +4,15 @@
 **Gwona/Gwona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Gwona" />
+  </a>
+  <a href="https://solved.ac/shb04110">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shb04110" />
+  </a>
+</p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Gwona"/>
-</a>
 
 
 ---
