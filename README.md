@@ -76,7 +76,7 @@ I’m an aspiring AI & Cloud engineer with a background in Management Informatio
   - 한국토지주택공사(LH)의 행정동 단위 도시 데이터 활용  
   - 1인 가구 집중 지역의 치안, 편의시설, 접근성 분석  
   - Python 기반 군집화 및 시각화 분석 수행 (seaborn, geopandas)
-  - 📍[Link](https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2112_001&teamNo=1730) 
+  - 📍[Final Product Link](https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2112_001&teamNo=1730) 
 ---
 
 📬 **How to reach me**
