@@ -61,7 +61,8 @@ I’m an aspiring AI & Cloud engineer with a background in Management Informatio
   - 이력서 분석 → GPT-4o 맞춤형 커리어 로드맵 제공  
   - 이미지 기반 채용공고 → OCR & 분석 자동화  
   - Azure 기반 STT/TTS 챗봇 + PDF 이력서 자동 생성
-  [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gwona&repo=hire-me-asap)](https://github.com/Gwona/hire-me-asap)
+    
+    [![hire-me-app](https://github-readme-stats.vercel.app/api/pin/?username=Gwona&repo=hire-me-app&theme=gruvbox)](https://github.com/Gwona/hire-me-app)
 
 - **Driver Drowsiness Monitoring System: "DNN"**  
   - AI Hub 영상 데이터 기반 졸음운전 감지  
