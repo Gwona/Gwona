@@ -30,53 +30,58 @@ I’m an aspiring AI & Cloud engineer with a background in Management Informatio
 ---
 
 📌 **Core Skills**
-- **AI Application Development**  
-  - LLM + RAG 기반 Q&A 시스템  
-  - Custom Vision / Document Intelligence 활용 OCR 파이프라인  
-  - Gradio 기반 인터랙티브 서비스 구축  
+- **AI Application Development**
+  - LLM + RAG-based document Q&A systems  
+  - OCR pipelines using Azure Custom Vision / Document Intelligence  
+  - Interactive AI services with Gradio  
 
-- **Cloud & DevOps**  
+- **Cloud & DevOps**
   - Azure Virtual Machines, AI Studio  
-  - Python REST API + Gradio 배포
+  - REST API deployment with Python + Gradio  
+  - GitHub collaboration and CI/CD workflows  
     
 ---
 
 🎓 **Education**
-- **Microsoft AI School 6th Cohort (2024.12 – 2025.06)**  
-  - Azure OpenAI, Azure Custom Vision 등 Microsoft 최신 AI 서비스 실습  
-  - LLM + RAG 기반의 문서 요약/질의응답 챗봇, 음성 기반 이력서 분석기 등 팀 프로젝트 주도  
-  - 클라우드 환경에서의 MLOps, 데이터 파이프라인 설계 및 GitHub 협업 경험  
 
-- **M.S. in Management Information Systems (Seoul National University) (2021 - 2024)**  
-  Focus: Digital Transformation, AI Applications, Platform Regulation  
-  - Thesis: Platform antitrust regulation and event study methodology  
+- **Microsoft AI School – 6th Cohort (Dec 2024 – Jun 2025)**  
+  - Practical training on Azure OpenAI, Custom Vision, and Document Intelligence  
+  - Led team projects on LLM-based document summarization and voice resume analysis  
+  - Experience with MLOps pipelines and GitHub-based deployments  
 
-- **B.A. in Business Administration & Fashion Marketing (Yonsei University)**  
-  - F&F, Shinsegae Int. Internships (E-commerce & Brand Ops)
+- **M.S. in Management Information Systems**  
+  *Seoul National University (2021 – 2024)*  
+  - Focus: Digital Transformation, AI Applications, Platform Regulation  
+  - Thesis: *Platform antitrust regulation and event study methodology*  
+
+- **B.A. in Business Administration & Fashion Marketing**  
+  *Yonsei University (2016 - 2021)*  
+  - Internship experience at F&F and Shinsegae International (E-commerce & Brand Operations)  
 
 ---
 
 💼 **Projects & Experience**
-- **AI Career Guide Service: "Hire Me ASAP"**  
-  - 이력서 분석 → GPT-4o 맞춤형 커리어 로드맵 제공  
-  - 이미지 기반 채용공고 → OCR & 분석 자동화  
-  - Azure 기반 STT/TTS 챗봇 + PDF 이력서 자동 생성
-    
-    [![hire-me-app](https://github-readme-stats.vercel.app/api/pin/?username=Gwona&repo=hire-me-app&theme=gruvbox)](https://github.com/Gwona/hire-me-app)
 
-- **Driver Drowsiness Monitoring System: "DNN"**  
-  - AI Hub 영상 데이터 기반 졸음운전 감지  
-  - Time-series 모델 + Azure Custom Vision  
+- 🧑‍💼 **AI Career Guide Service – "Hire Me ASAP"**  
+  - Resume analysis → GPT-4o-powered personalized career roadmap  
+  - Job postings in image format → OCR-based parsing and insights  
+  - Gradio-based UI with STT/TTS features and PDF resume generation  
+  - 👉 [View project: hire-me-app](https://github.com/Gwona/hire-me-app)
 
-- **Research Project on Platform Antitrust**  
-  - IT 플랫폼 규제 이벤트에 대한 주가 반응 분석  
-  - Event Study Methodology + R/Python 기반 분석
+- 🧠 **Driver Drowsiness Monitoring System – "DNN"**  
+  - Built using video data from AI Hub  
+  - Combined time-series modeling with Azure Custom Vision  
+
+- 🧪 **Research Project on Platform Antitrust**  
+  - Event study measuring stock price reaction to IT regulation  
+  - R and Python-based data analysis pipeline  
+
+- 🏙️ **Urban Data Analysis with LH – *Best Award***  
+  - Leveraged public data from LH (Korea Land & Housing Corporation)  
+  - Analyzed living environment and safety for single-person households in Seoul  
+  - Performed clustering and visualization using Python, `seaborn`, `geopandas`
+  - 👉 [View Project](https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2112_001&teamNo=1730)
  
-- **SNU-LH 도시데이터 분석학교 [최우수상]**  
-  - 한국토지주택공사(LH)의 행정동 단위 도시 데이터 활용  
-  - 1인 가구 집중 지역의 치안, 편의시설, 접근성 분석  
-  - Python 기반 군집화 및 시각화 분석 수행 (seaborn, geopandas)
-  - 📍[Final Product Link](https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2112_001&teamNo=1730) 
 ---
 
 📬 **How to reach me**
